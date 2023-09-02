@@ -143,6 +143,7 @@ const englishMessages: TranslationMessages = {
             email: 'Email',
             password: 'Password',
             confirm_password: 'Confirm Password',
+            password_mismatch: 'Passwords do not match',
             sign_up: 'Sign up',
             sign_in: 'Sign in',
             sign_in_error: 'Authentication failed, please retry',
