@@ -1,6 +1,6 @@
 {
   "name": "@packdir/language-en",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "English messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "files": [
     "*.md",

@@ -147,6 +147,8 @@ const englishMessages: TranslationMessages = {
             sign_up: 'Sign up',
             sign_in: 'Sign in',
             sign_in_error: 'Authentication failed, please retry',
+            email_exists: 'Email already exists',
+            password_min_6: 'Password must be at least 6 characters',
             logout: 'Logout',
             new_account: 'Create a new account',
             already_have_an_account: 'Already have an account?',
